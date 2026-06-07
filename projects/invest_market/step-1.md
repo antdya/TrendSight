@@ -6,4 +6,4 @@
 
 Выполни промт 01_collect.md, используя параметры из user_profile.md.
 Выведи результат в Markdown.
-Сохрани как: projects/$PRODUCT/digests/$WEEK/raw_digest.md
+Сохрани в: projects/$PRODUCT/digests/$WEEK/raw_digest.md
