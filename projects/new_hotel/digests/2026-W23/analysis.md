@@ -7,7 +7,7 @@
 
 ## Тренды (подтверждённые)
 
-Исходные (сырые заданные по новостям за период: [здесь](https://github.com/antdya/TrendSight/blob/main/projects/invest_market/digests/2026-W23/raw_digest.md))
+Исходные (сырые заданные по новостям за период: [здесь](https://github.com/antdya/TrendSight/blob/main/projects/new_hotel/digests/2026-W23/raw_digest.md))
 
 **1. Внутренний туризм перешёл в стадию конкурентной зрелости**
 - Рост +1–5% в 2025 против 20%+ в 2024 (#4). В I кв. 2026 загрузка московских отелей упала впервые за 3 года (#5).
