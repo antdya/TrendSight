@@ -1,6 +1,6 @@
 # Промт 02 — Аналитика трендов
 
-> Вставлять в Perplexity ПОСЛЕ содержимого `memory/signal_log.md` и `config/product_brief.md`.
+> Вставлять в Perplexity ПОСЛЕ содержимого `memory/signal_log.md` и `product_brief.md` нужного продукта.
 
 ---
 
